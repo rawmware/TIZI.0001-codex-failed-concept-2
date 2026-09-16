@@ -1,0 +1,8 @@
+# Private runtime state and large local dependencies
+data/
+exports/
+workspace/
+models/*.gguf
+runtime/
+tests/.runs/
+.tmp

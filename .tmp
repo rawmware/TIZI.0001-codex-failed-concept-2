@@ -1,0 +1,15 @@
+{
+    "schemaVersion":  1,
+    "id":  "20260913-021225-8eaa3c",
+    "title":  "New chat",
+    "createdAt":  "2026-09-13T02:12:25.3091011-04:00",
+    "updatedAt":  "2026-09-13T02:12:25.3091011-04:00",
+    "messages":  [
+
+                 ],
+    "totals":  {
+                   "promptTokens":  0,
+                   "completionTokens":  0,
+                   "turns":  0
+               }
+}
