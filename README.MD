@@ -1,0 +1,1 @@
+This project was a fail, but i wanted, i kept it private cause i was embarassed but im like watever maybe i can use this to larn from in the future, the idea was there but it ate all my tokens and i tapped out at like 4:00am with no succesfull product
